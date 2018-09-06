@@ -22,3 +22,15 @@ C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\ob
 C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CopyComplete
 C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
 C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\bin\Debug\Calculator.dll
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\bin\Debug\Calculator.pdb
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CopyComplete
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb

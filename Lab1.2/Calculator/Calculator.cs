@@ -30,7 +30,7 @@ namespace Calculator
             if (divisor != 0)
                 return dividend / divisor;
             else
-                throw new DivideByZeroException("You can't divide by zero");
+                throw new DivideByZeroException();
         }
 
         public double Modulus(double modulus, double divisor)
@@ -39,7 +39,7 @@ namespace Calculator
             return modulus % divisor;
             else
             {
-                throw new DivideByZeroException("You can't divide by zero");
+                throw new DivideByZeroException();
             }
         }
     }
@@ -48,7 +48,7 @@ namespace Calculator
     {
         public string ErrorMsg { get;  private set; }
 
-        public DivideByZeroException(string errorMsg)
+        public DivideByZeroException(string errorMsg = "You can't divide by zero")
         {
             ErrorMsg = errorMsg;
         }

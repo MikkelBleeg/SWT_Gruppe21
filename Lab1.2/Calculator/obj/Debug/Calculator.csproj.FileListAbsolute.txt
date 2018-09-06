@@ -10,3 +10,9 @@ C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Ca
 C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.dll
 C:\Users\Mette\Documents\4. Semester\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator\bin\Debug\Calculator.dll
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.dll
+C:\Users\Gnutz\Uni\semester4\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.pdb
