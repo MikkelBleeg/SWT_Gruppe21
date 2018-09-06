@@ -6,7 +6,7 @@ using NUnit.Framework;
 namespace Calculator.Test.Unit
 {
     [TestFixture]
-    [Author("Troels Jensen")] //Edited by Team ???
+    [Author("Troels Jensen, Edited by members of group 21")]
     public class CalculatorUnitTests
     {
         private Calculator _uut;
@@ -93,7 +93,7 @@ namespace Calculator.Test.Unit
         [Test]
         public void Modulus_DivideByZero_Throws_DivideByZeroException()
         {
-            Assert.That(() => _uut.Modulus(10, 0),
+            Assert.That(() => _uut.Modulus(12, 0),
                 Throws.TypeOf<DivideByZeroException>().With.Property("ErrorMsg").EqualTo("You can't divide by zero"));
         }
     }
