@@ -1,0 +1,6 @@
+C:\Users\Chris W Olesen\Documents\6.semester\SWT\SWT_Gruppe21\Lab1.2\Calculator\bin\Debug\Calculator.dll
+C:\Users\Chris W Olesen\Documents\6.semester\SWT\SWT_Gruppe21\Lab1.2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Chris W Olesen\Documents\6.semester\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Chris W Olesen\Documents\6.semester\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Chris W Olesen\Documents\6.semester\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.dll
+C:\Users\Chris W Olesen\Documents\6.semester\SWT\SWT_Gruppe21\Lab1.2\Calculator\obj\Debug\Calculator.pdb
