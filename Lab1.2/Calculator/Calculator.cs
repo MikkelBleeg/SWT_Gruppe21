@@ -32,6 +32,16 @@ namespace Calculator
             else
                 throw new DivideByZeroException("You can't divide by zero");
         }
+
+        public double Modulus(double modulus, double divisor)
+        {
+            if(divisor!=0)
+            return modulus % divisor;
+            else
+            {
+                throw new DivideByZeroException("You can't divide by zero");
+            }
+        }
     }
 
     public class DivideByZeroException : Exception

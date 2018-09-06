@@ -82,5 +82,19 @@ namespace Calculator.Test.Unit
                 Throws.TypeOf<DivideByZeroException>().With.Property("ErrorMsg").EqualTo("You can't divide by zero"));
         }
 
+        [TestCase(10, 3, 1)]
+        [TestCase(10, 9, 1)]
+        [TestCase(-10, -3, -1)]
+        [TestCase(10, -3, 1)]
+        public void Modulus_ModulusBy_ResultIsCorrect(int a, int b, int result)
+        {
+            Assert.That(_uut.Modulus(a, b), Is.EqualTo(result));
+        }
+        [Test]
+        public void Modulus_DivideByZero_Throws_DivideByZeroException()
+        {
+            Assert.That(() => _uut.Modulus(10, 0),
+                Throws.TypeOf<DivideByZeroException>().With.Property("ErrorMsg").EqualTo("You can't divide by zero"));
+        }
     }
 }
