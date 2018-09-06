@@ -6,7 +6,7 @@ using NUnit.Framework;
 namespace Calculator.Test.Unit
 {
     [TestFixture]
-    [Author("Troels Jensen")]
+    [Author("Troels Jensen")] //Edited by Team ???
     public class CalculatorUnitTests
     {
         private Calculator _uut;
@@ -62,5 +62,25 @@ namespace Calculator.Test.Unit
         {
             Assert.That(_uut.Power(x, exp), Is.EqualTo(result));
         }
+
+        [TestCase(2, 4, 0.5)]
+        [TestCase(10, 2, 5)]
+        [TestCase(2, -4, -0.5)]
+        [TestCase(-2, -4, 0.5)]
+        [TestCase(-2, 4, -0.5)]
+        [TestCase(5, 0.5, 10)]
+        [TestCase(10, 0.5, 20)]
+        public void Divide_DivisorNotZero_ResultCorrect(double dividend, double divisor, double result)
+        {
+            Assert.That(_uut.Divide(dividend, divisor), Is.EqualTo(result));
+        }
+
+        [Test]
+        public void Divide_DivideByZero_Throws_DivideByZeroException()
+        {
+            Assert.That(() => _uut.Divide(10, 0),
+                Throws.TypeOf<DivideByZeroException>().With.Property("ErrorMsg").EqualTo("You can't divide by zero"));
+        }
+
     }
 }
