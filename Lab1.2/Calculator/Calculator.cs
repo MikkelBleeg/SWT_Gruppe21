@@ -23,5 +23,24 @@ namespace Calculator
         {
             return Math.Pow(a, b);
         }
+
+        public double Divide(double dividend, double divisor)
+        {
+
+            if (divisor != 0)
+                return dividend / divisor;
+            else
+                throw new DivideByZeroException("You can't divide by zero");
+        }
+    }
+
+    public class DivideByZeroException : Exception
+    {
+        public string ErrorMsg { get;  private set; }
+
+        public DivideByZeroException(string errorMsg)
+        {
+            ErrorMsg = errorMsg;
+        }
     }
 }
